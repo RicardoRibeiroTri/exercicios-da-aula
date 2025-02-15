@@ -20,7 +20,7 @@ public class Exercício2 {
      
      System.out.println("A área do quadro é de: " + area);
      System.out.println("O perímetro do quadro mede: " + peri);
-     System.out.printf("A diagonal do quadro mede: " + "%.2f",diag);
+     System.out.printf("A diagonal do quadro mede: " + "%.4f",diag);
      
      sc.close();
      
